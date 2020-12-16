@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6e5302b-1587-4d3a-834b-7503f244c949" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/code/App/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/App/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/code/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site.conf" beforeDir="false" afterPath="$PROJECT_DIR$/site.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/code/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/code/vendor/google/apiclient" />
+      <path value="$PROJECT_DIR$/code/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/code/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/code/vendor/phpmd/phpmd" />
+      <path value="$PROJECT_DIR$/code/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/code/vendor/pdepend/pdepend" />
+      <path value="$PROJECT_DIR$/code/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/code/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/code/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/code/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/code/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/code/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/code/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/code/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/code/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/code/vendor/composer" />
+      <path value="$PROJECT_DIR$/code/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/code/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/code/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/code/vendor/psr/container" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1lkBCr6ij5peVjsWP1w5bDYQQ8Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6e5302b-1587-4d3a-834b-7503f244c949" name="Default Changelist" comment="" />
+      <created>1608131084424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608131084424</updated>
+      <workItem from="1608131085456" duration="1482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608133595251">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1608133595251" />
+  </component>
+</project>
