@@ -1,16 +1,13 @@
 <?php
-require $_SERVER['DOCUMENT_ROOT'] . "/App/Router.php";
-$router = Router::load('routes.php');
-$pageName = $router->direct('scrap');
 require 'vendor/autoload.php';
-
 
 use App\Repositories\ShopRepository;
 use App\App;
 use App\DB\DB;
 use App\Router;
 
-
+$router = Router::load('routes.php');
+$pageName = $router->direct('scrap');
 
 $config_path = $_SERVER['DOCUMENT_ROOT'] . "/config.php";
 App::bind('config', require $config_path);
