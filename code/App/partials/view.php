@@ -1,9 +1,9 @@
 <?php require 'header.php'; ?>
     <link rel="stylesheet" href="../styles/main.css">
     <div class="container">
-        <ul class="catalog" style="">
+        <div class="row">
         <?php foreach ($goods as $good ):?>
-        <li class="catalog-item" style="">
+        <div class="col-sm-4">
             <div class="item-holder">
                 <div class="image-holder">
                     <img src="<?= $good->image  ?>" width="310" height="430">
@@ -25,9 +25,9 @@
                     </div>
                 </div>
             </div>
-        </li>
+        </div>
         <?php endforeach; ?>
-        </ul>
+        </div>
         <?php
         for($page=1; $page <= 5; $page++): ?>
             <form style="display: inline-block" action="?action=set-page" method="post">
